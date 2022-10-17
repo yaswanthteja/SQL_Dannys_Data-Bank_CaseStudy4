@@ -89,4 +89,4 @@ FROM sum_diff_cte;
 
 ***
 
-Click [here]() for **B. Customer Transactions** solution!
+Click [here](https://github.com/yaswanthteja/SQL_Dannys_Data-Bank_CaseStudy4/blob/master/B.Customer_Transactions.md) for **B. Customer Transactions** solution!
