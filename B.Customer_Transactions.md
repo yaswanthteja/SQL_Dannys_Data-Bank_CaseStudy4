@@ -44,6 +44,8 @@ WHERE txn_type = 'deposit';
 
 <img width="325" alt="image" src="https://github.com/yaswanthteja/SQL_Dannys_Data-Bank_CaseStudy4/blob/master/images/B.Customer%20Transactions/2.png">
 
+
+
 - The average historical deposit count is 5 and average historical deposit amounts are 508.61.
 
 ***
@@ -395,11 +397,19 @@ SELECT
 FROM positive_negative;
 ````
 
+
+
 **Answer:**
 
 <img width="312" alt="image" src="https://github.com/yaswanthteja/SQL_Dannys_Data-Bank_CaseStudy4/blob/master/images/B.Customer%20Transactions/13.png">
 
 - 22.8% of customers move from a positive balance (refer: closing_balance) in the first month to a negative balance (refer: next_balance) in the second month.
+
+
+
+
+
+
 
 ***
 
