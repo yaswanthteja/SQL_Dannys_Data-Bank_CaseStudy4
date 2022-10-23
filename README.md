@@ -85,5 +85,7 @@ Do give me a 🌟 if you like what you're reading. Thank you! 🙆🏻‍♀️
 
 - [SQL_Dannys_Pizza_Runner_CaseStudy2-](https://github.com/yaswanthteja/SQL_Dannys_Pizza_Runner_CaseStudy2-)
 
+- [SQL_Dannys_Foodiee-Fi_CaseStudy3](https://github.com/yaswanthteja/SQL_Dannys_Foodiee-Fi_CaseStudy3)
+
 - [SQL_Dannys_Data-Bank_CaseStudy4](https://github.com/yaswanthteja/SQL_Dannys_Data-Bank_CaseStudy4)
 
